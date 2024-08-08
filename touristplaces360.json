@@ -1,0 +1,32 @@
+[
+    {
+        "latitude": 18.5196,
+        "longitude": 73.8553,
+        "placename": "Shaniwarwada",
+        "imageLink": "LVnsimZ.jpg"
+    },
+    {
+        "latitude": 27.1751,
+        "longitude": 78.0421,
+        "placename": "Taj Mahal",
+        "imageLink": "qkgIREI.jpg"
+    },
+    {
+        "latitude": 48.8584,
+        "longitude": 2.2945,
+        "placename": "Eiffel Tower",
+        "imageLink": "HNVLoxt.jpg"
+    },
+    {
+        "latitude": 40.6892,
+        "longitude": -74.0445,
+        "placename": "Statue of Liberty",
+        "imageLink": "crq65zP.jpg"
+    },
+    {
+        "latitude": 25.1972,
+        "longitude": 55.2744,
+        "placename": "Burj Khalifa",
+        "imageLink": "F8IST0H.jpg"
+    }
+]
